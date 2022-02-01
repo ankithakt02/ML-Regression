@@ -8,6 +8,7 @@ A Linear Regression Model is developed that predicts the yearly medical cover co
 The Premium Price is in INR(₹) currency and showcases prices for a whole year.
 
 #Linear Regression:
+
 This method is mostly used for forecasting and finding out cause and effect relationship between variables.
 Linear regression is a type of regression analysis where the number of independent variables is one and there is a 
 linear relationship between the independent(x) and dependent(y) variable.
