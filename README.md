@@ -7,6 +7,7 @@ This dataset consists of data releasedby a  Medical Insurance Company for almost
 A Linear Regression Model is developed that predicts the yearly medical cover cost. 
 The Premium Price is in INR(₹) currency and showcases prices for a whole year.
 
+11 attributes: Age, Diabetes, Blood Pressure, Transplants, Chronic diseases, Height, Weight, Known alergies, History of cancer in family, No. of major surgeries
 #Linear Regression:
 
 This method is mostly used for forecasting and finding out cause and effect relationship between variables.
